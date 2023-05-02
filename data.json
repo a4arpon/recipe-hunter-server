@@ -1,45 +1,46 @@
 [
-    { "_id":"hotelSavorDelight_01",
-    "chefName": "Emily",
-    "yearsOfExperience": 8,
-    "numbersOfRecipes": 30,
-    "recipes":[
+    {
+      "_id": "hotelSavorDelight_01",
+      "chefName": "Emily",
+      "yearsOfExperience": 8,
+      "numbersOfRecipes": 30,
+      "recipes": [
         {
-            "_id": "recipe01",
-            "dishName": "Classic Cheeseburger",
-            "ingredients": [
-            {"name": "Ground beef", "quantity": "1 lb"},
-            {"name": "Cheese", "quantity": "4 slices"},
-            {"name": "Lettuce", "quantity": "1 cup"},
-            {"name": "Tomato", "quantity": "1, sliced"},
-            {"name": "Ketchup", "quantity": "2 tbsp"},
-            {"name": "Mustard", "quantity": "2 tbsp"},
-            {"name": "Burger buns", "quantity": "4"}
-            ],
-            "instructions": [
+          "_id": "recipe01",
+          "dishName": "Classic Cheeseburger",
+          "ingredients": [
+            { "name": "Ground beef", "quantity": "1 lb" },
+            { "name": "Cheese", "quantity": "4 slices" },
+            { "name": "Lettuce", "quantity": "1 cup" },
+            { "name": "Tomato", "quantity": "1, sliced" },
+            { "name": "Ketchup", "quantity": "2 tbsp" },
+            { "name": "Mustard", "quantity": "2 tbsp" },
+            { "name": "Burger buns", "quantity": "4" }
+          ],
+          "instructions": [
             "Preheat grill to medium-high heat.",
             "Divide ground beef into 4 equal portions and shape into patties.",
             "Season patties with salt and pepper.",
             "Grill patties for 4-5 minutes per side, or until fully cooked.",
             "Toast buns on the grill for 1-2 minutes.",
             "Assemble burgers by placing patties on buns, and topping with cheese, lettuce, tomato, ketchup, and mustard."
-            ]
-            },
-            {
-            "_id": "recipe02",
-            "dishName": "Chicken Pot Pie",
-            "ingredients": [
-            {"name": "Pie crust", "quantity": "2, 9-inch"},
-            {"name": "Chicken breast", "quantity": "2, cooked and shredded"},
-            {"name": "Frozen mixed vegetables", "quantity": "2 cups"},
-            {"name": "Butter", "quantity": "3 tbsp"},
-            {"name": "Flour", "quantity": "3 tbsp"},
-            {"name": "Chicken broth", "quantity": "1 cup"},
-            {"name": "Milk", "quantity": "1 cup"},
-            {"name": "Salt", "quantity": "1 tsp"},
-            {"name": "Pepper", "quantity": "1/4 tsp"}
-            ],
-            "instructions": [
+          ]
+        },
+        {
+          "_id": "recipe02",
+          "dishName": "Chicken Pot Pie",
+          "ingredients": [
+            { "name": "Pie crust", "quantity": "2, 9-inch" },
+            { "name": "Chicken breast", "quantity": "2, cooked and shredded" },
+            { "name": "Frozen mixed vegetables", "quantity": "2 cups" },
+            { "name": "Butter", "quantity": "3 tbsp" },
+            { "name": "Flour", "quantity": "3 tbsp" },
+            { "name": "Chicken broth", "quantity": "1 cup" },
+            { "name": "Milk", "quantity": "1 cup" },
+            { "name": "Salt", "quantity": "1 tsp" },
+            { "name": "Pepper", "quantity": "1/4 tsp" }
+          ],
+          "instructions": [
             "Preheat oven to 375°F.",
             "In a large skillet, melt butter over medium heat.",
             "Add flour and whisk until smooth.",
@@ -51,79 +52,117 @@
             "Place the second pie crust on top of the dish and seal the edges.",
             "Cut slits in the top crust to vent.",
             "Bake for 45 minutes, or until crust is golden brown."
-            ]
+          ]
         }
-    ]
+      ]
     },
-    { "_id":"cafeCuisine_02",
-    "chefName": "James",
-    "yearsOfExperience": 12,
-    "numbersOfRecipes": 25,
-    "recipes":[
-
-    ]
+    {
+      "_id": "cafeCuisine_02",
+      "chefName": "James",
+      "yearsOfExperience": 12,
+      "numbersOfRecipes": 25,
+      "recipes": [
+        {
+          "_id": "recipe04",
+          "dishName": "BBQ Pulled Pork Sandwiches",
+          "ingredients": [
+            { "name": "Pork shoulder", "quantity": "3 lbs" },
+            { "name": "BBQ sauce", "quantity": "2 cups" },
+            { "name": "Hamburger buns", "quantity": "8" },
+            { "name": "Coleslaw", "quantity": "2 cups" },
+            { "name": "Salt", "quantity": "1 tsp" },
+            { "name": "Pepper", "quantity": "1/4 tsp" }
+          ],
+          "instructions": [
+            "Preheat oven to 325°F.",
+            "Season pork shoulder with salt and pepper, and place in a roasting pan.",
+            "Cover with foil and roast for 4-5 hours, or until tender.",
+            "Remove pork from oven and let cool.",
+            "Shred pork with two forks.",
+            "In a large bowl, mix shredded pork with BBQ sauce.",
+            "Toast hamburger buns in the oven for 1-2 minutes.",
+            "Assemble sandwiches by placing pulled pork on buns, and topping with coleslaw."
+          ]
+        },
+        {
+          "_id": "recipe05",
+          "dishName": "Fried Chicken",
+          "ingredients": [
+            { "name": "Chicken pieces", "quantity": "8" },
+            { "name": "Buttermilk", "quantity": "2 cups" },
+            { "name": "Flour", "quantity": "2 cups" },
+            { "name": "Salt", "quantity": "1 tbsp" },
+            { "name": "Pepper", "quantity": "1 tsp" },
+            { "name": "Paprika", "quantity": "1 tsp" },
+            { "name": "Garlic powder", "quantity": "1 tsp" },
+            { "name": "Vegetable oil", "quantity": "4 cups" }
+          ],
+          "instructions": [
+            "In a large bowl, marinate chicken pieces in buttermilk for at least 2 hours.",
+            "In a separate bowl, mix flour, salt, pepper, paprika, and garlic powder.",
+            "Remove chicken from buttermilk and dredge in the flour mixture.",
+            "Heat vegetable oil in a large skillet over medium-high heat.",
+            "Fry chicken pieces for 10-15 minutes, or until fully cooked and crispy.",
+            "Place fried chicken on a wire rack to cool and drain excess oil."
+          ]
+        }
+      ]
     },
-    { "_id":"dinerDeli_03",
-    "chefName": "Lisa",
-    "yearsOfExperience": 5,
-    "numbersOfRecipes": 15,
-    "recipes":[
-
-    ]
+    {
+      "_id": "dinerDeli_03",
+      "chefName": "Lisa",
+      "yearsOfExperience": 5,
+      "numbersOfRecipes": 15,
+      "recipes": []
     },
-    { "_id":"grillHouse_04",
-    "chefName": "David",
-    "yearsOfExperience": 20,
-    "numbersOfRecipes": 50,
-    "recipes":[
-
-    ]
+    {
+      "_id": "grillHouse_04",
+      "chefName": "David",
+      "yearsOfExperience": 20,
+      "numbersOfRecipes": 50,
+      "recipes": []
     },
-    { "_id":"seafoodEmporium_05",
-    "chefName": "Jessica",
-    "yearsOfExperience": 15,
-    "numbersOfRecipes": 35,
-    "recipes":[
-
-    ]
+    {
+      "_id": "seafoodEmporium_05",
+      "chefName": "Jessica",
+      "yearsOfExperience": 15,
+      "numbersOfRecipes": 35,
+      "recipes": []
     },
-    { "_id":"pancakePantry_06",
-    "chefName": "Alex",
-    "yearsOfExperience": 3,
-    "numbersOfRecipes": 10,
-    "recipes":[
-
-    ]
+    {
+      "_id": "pancakePantry_06",
+      "chefName": "Alex",
+      "yearsOfExperience": 3,
+      "numbersOfRecipes": 10,
+      "recipes": []
     },
-    { "_id":"bistroBites_07",
-    "chefName": "Michael",
-    "yearsOfExperience": 18,
-    "numbersOfRecipes": 40,
-    "recipes":[
-
-    ]
+    {
+      "_id": "bistroBites_07",
+      "chefName": "Michael",
+      "yearsOfExperience": 18,
+      "numbersOfRecipes": 40,
+      "recipes": []
     },
-    { "_id":"tasteTavern_08",
-    "chefName": "Sophie",
-    "yearsOfExperience": 10,
-    "numbersOfRecipes": 22,
-    "recipes":[
-
-    ]
+    {
+      "_id": "tasteTavern_08",
+      "chefName": "Sophie",
+      "yearsOfExperience": 10,
+      "numbersOfRecipes": 22,
+      "recipes": []
     },
-    { "_id":"gourmetGrub_09",
-    "chefName": "Ben",
-    "yearsOfExperience": 7,
-    "numbersOfRecipes": 18,
-    "recipes":[
-
-    ]
+    {
+      "_id": "gourmetGrub_09",
+      "chefName": "Ben",
+      "yearsOfExperience": 7,
+      "numbersOfRecipes": 18,
+      "recipes": []
     },
-    { "_id":"pizzaPalooza_10",
-    "chefName": "Isabella",
-    "yearsOfExperience": 2,
-    "numbersOfRecipes": 8,
-    "recipes":[
-
-    ]
-    }]
+    {
+      "_id": "pizzaPalooza_10",
+      "chefName": "Isabella",
+      "yearsOfExperience": 2,
+      "numbersOfRecipes": 8,
+      "recipes": []
+    }
+]
+  
