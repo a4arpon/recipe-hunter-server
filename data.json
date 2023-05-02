@@ -1,5 +1,51 @@
 [
-    {
-        "id":"hello"
+    { "_id":"hotelSavorDelight_01",
+    "chefName": "Emily",
+    "yearsOfExperience": 8,
+    "numbersOfRecipes": 30
     }
-]
+    { "_id":"cafeCuisine_02",
+    "chefName": "James",
+    "yearsOfExperience": 12,
+    "numbersOfRecipes": 25
+    }
+    { "_id":"dinerDeli_03",
+    "chefName": "Lisa",
+    "yearsOfExperience": 5,
+    "numbersOfRecipes": 15
+    }
+    { "_id":"grillHouse_04",
+    "chefName": "David",
+    "yearsOfExperience": 20,
+    "numbersOfRecipes": 50
+    }
+    { "_id":"seafoodEmporium_05",
+    "chefName": "Jessica",
+    "yearsOfExperience": 15,
+    "numbersOfRecipes": 35
+    }
+    { "_id":"pancakePantry_06",
+    "chefName": "Alex",
+    "yearsOfExperience": 3,
+    "numbersOfRecipes": 10
+    }
+    { "_id":"bistroBites_07",
+    "chefName": "Michael",
+    "yearsOfExperience": 18,
+    "numbersOfRecipes": 40
+    }
+    { "_id":"tasteTavern_08",
+    "chefName": "Sophie",
+    "yearsOfExperience": 10,
+    "numbersOfRecipes": 22
+    }
+    { "_id":"gourmetGrub_09",
+    "chefName": "Ben",
+    "yearsOfExperience": 7,
+    "numbersOfRecipes": 18
+    }
+    { "_id":"pizzaPalooza_10",
+    "chefName": "Isabella",
+    "yearsOfExperience": 2,
+    "numbersOfRecipes": 8
+    }]
