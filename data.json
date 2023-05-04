@@ -11,15 +11,36 @@
       {
         "_id": "recipe01",
         "dishName": "Classic Cheeseburger",
-        "img":"",
+        "img": "https://img.taste.com.au/sx-lL9rH/w643-h428-cfill-q90/taste/2016/11/classic-cheeseburgers-109385-1.jpeg",
         "ingredients": [
-          { "name": "Ground beef", "quantity": "1 lb" },
-          { "name": "Cheese", "quantity": "4 slices" },
-          { "name": "Lettuce", "quantity": "1 cup" },
-          { "name": "Tomato", "quantity": "1, sliced" },
-          { "name": "Ketchup", "quantity": "2 tbsp" },
-          { "name": "Mustard", "quantity": "2 tbsp" },
-          { "name": "Burger buns", "quantity": "4" }
+          {
+            "name": "Ground beef",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "Cheese",
+            "quantity": "4 slices"
+          },
+          {
+            "name": "Lettuce",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Tomato",
+            "quantity": "1, sliced"
+          },
+          {
+            "name": "Ketchup",
+            "quantity": "2 tbsp"
+          },
+          {
+            "name": "Mustard",
+            "quantity": "2 tbsp"
+          },
+          {
+            "name": "Burger buns",
+            "quantity": "4"
+          }
         ],
         "instructions": [
           "Preheat grill to medium-high heat.",
@@ -33,17 +54,44 @@
       {
         "_id": "recipe02",
         "dishName": "Chicken Pot Pie",
-        "img":"https://natashaskitchen.com/wp-content/uploads/2020/10/Chicken-Pot-Pie-3-728x1092.jpg",
+        "img": "https://natashaskitchen.com/wp-content/uploads/2020/10/Chicken-Pot-Pie-3-728x1092.jpg",
         "ingredients": [
-          { "name": "Pie crust", "quantity": "2, 9-inch" },
-          { "name": "Chicken breast", "quantity": "2, cooked and shredded" },
-          { "name": "Frozen mixed vegetables", "quantity": "2 cups" },
-          { "name": "Butter", "quantity": "3 tbsp" },
-          { "name": "Flour", "quantity": "3 tbsp" },
-          { "name": "Chicken broth", "quantity": "1 cup" },
-          { "name": "Milk", "quantity": "1 cup" },
-          { "name": "Salt", "quantity": "1 tsp" },
-          { "name": "Pepper", "quantity": "1/4 tsp" }
+          {
+            "name": "Pie crust",
+            "quantity": "2, 9-inch"
+          },
+          {
+            "name": "Chicken breast",
+            "quantity": "2, cooked and shredded"
+          },
+          {
+            "name": "Frozen mixed vegetables",
+            "quantity": "2 cups"
+          },
+          {
+            "name": "Butter",
+            "quantity": "3 tbsp"
+          },
+          {
+            "name": "Flour",
+            "quantity": "3 tbsp"
+          },
+          {
+            "name": "Chicken broth",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Milk",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Salt",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "1/4 tsp"
+          }
         ],
         "instructions": [
           "Preheat oven to 375°F.",
@@ -62,18 +110,48 @@
       {
         "_id": "recipe03",
         "dishName": "Beef Stroganoff",
-        "img":"https://www.gimmesomeoven.com/wp-content/uploads/2020/10/Beef-Stroganoff-Recipe-9.jpg",
+        "img": "https://www.gimmesomeoven.com/wp-content/uploads/2020/10/Beef-Stroganoff-Recipe-9.jpg",
         "ingredients": [
-          { "name": "Egg noodles", "quantity": "8 oz" },
-          { "name": "Beef sirloin", "quantity": "1 lb, thinly sliced" },
-          { "name": "Butter", "quantity": "2 tbsp" },
-          { "name": "Onion", "quantity": "1, chopped" },
-          { "name": "Garlic", "quantity": "2 cloves, minced" },
-          { "name": "Mushrooms", "quantity": "8 oz, sliced" },
-          { "name": "Beef broth", "quantity": "1 cup" },
-          { "name": "Sour cream", "quantity": "1 cup" },
-          { "name": "Salt", "quantity": "1 tsp" },
-          { "name": "Pepper", "quantity": "1/4 tsp" }
+          {
+            "name": "Egg noodles",
+            "quantity": "8 oz"
+          },
+          {
+            "name": "Beef sirloin",
+            "quantity": "1 lb, thinly sliced"
+          },
+          {
+            "name": "Butter",
+            "quantity": "2 tbsp"
+          },
+          {
+            "name": "Onion",
+            "quantity": "1, chopped"
+          },
+          {
+            "name": "Garlic",
+            "quantity": "2 cloves, minced"
+          },
+          {
+            "name": "Mushrooms",
+            "quantity": "8 oz, sliced"
+          },
+          {
+            "name": "Beef broth",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Sour cream",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Salt",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "1/4 tsp"
+          }
         ],
         "instructions": [
           "Cook egg noodles according to package instructions.",
@@ -90,17 +168,48 @@
       {
         "_id": "recipe04",
         "dishName": "Grilled Salmon with Mango Salsa",
+        "img": "https://dishinwithdi.com/wp-content/uploads/2014/08/2014-08-10-Grilled-Salmon-with-Mango-Salsa-012-1280x721-1024x576.jpg",
         "ingredients": [
-          { "name": "Salmon fillets", "quantity": "4, skin-on" },
-          { "name": "Olive oil", "quantity": "2 tbsp" },
-          { "name": "Salt", "quantity": "1 tsp" },
-          { "name": "Pepper", "quantity": "1/4 tsp" },
-          { "name": "Mango", "quantity": "1, peeled and diced" },
-          { "name": "Red bell pepper", "quantity": "1/2, diced" },
-          { "name": "Red onion", "quantity": "1/4, diced" },
-          { "name": "Jalapeno pepper", "quantity": "1, seeded and minced" },
-          { "name": "Lime juice", "quantity": "1 tbsp" },
-          { "name": "Cilantro", "quantity": "1/4 cup, chopped" }
+          {
+            "name": "Salmon fillets",
+            "quantity": "4, skin-on"
+          },
+          {
+            "name": "Olive oil",
+            "quantity": "2 tbsp"
+          },
+          {
+            "name": "Salt",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "1/4 tsp"
+          },
+          {
+            "name": "Mango",
+            "quantity": "1, peeled and diced"
+          },
+          {
+            "name": "Red bell pepper",
+            "quantity": "1/2, diced"
+          },
+          {
+            "name": "Red onion",
+            "quantity": "1/4, diced"
+          },
+          {
+            "name": "Jalapeno pepper",
+            "quantity": "1, seeded and minced"
+          },
+          {
+            "name": "Lime juice",
+            "quantity": "1 tbsp"
+          },
+          {
+            "name": "Cilantro",
+            "quantity": "1/4 cup, chopped"
+          }
         ],
         "instructions": [
           "Preheat grill to medium-high heat.",
@@ -109,6 +218,482 @@
           "In a medium bowl, combine mango, red bell pepper, red onion, jalapeno pepper, lime juice, and cilantro.",
           "Season with salt and pepper.",
           "Serve salmon with mango salsa."
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "hotelGourmet_01",
+    "chefName": "John",
+    "img": "https://www.marionkane.com/wp/wp-content/uploads/2012/11/Thomas-Keller004-5-9-05.jpg",
+    "bio": "I'm John, a passionate chef with over 15 years of experience.",
+    "yearsOfExperience": 15,
+    "numbersOfRecipes": 50,
+    "likes": 12,
+    "recipes": [
+      {
+        "_id": "recipe01",
+        "dishName": "BBQ Ribs",
+        "img": "https://hips.hearstapps.com/hmg-prod/images/grilled-bbq-ribs-1620766568.jpg?crop=1xw:0.8434864104967198xh;center,top&resize=600:*",
+        "ingredients": [
+          {
+            "name": "Pork ribs",
+            "quantity": "2 racks"
+          },
+          {
+            "name": "BBQ sauce",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Garlic powder",
+            "quantity": "1 tbsp"
+          },
+          {
+            "name": "Onion powder",
+            "quantity": "1 tbsp"
+          },
+          {
+            "name": "Paprika",
+            "quantity": "1 tbsp"
+          },
+          {
+            "name": "Salt",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "1 tsp"
+          }
+        ],
+        "instructions": [
+          "Preheat oven to 300°F.",
+          "Mix together garlic powder, onion powder, paprika, salt, and pepper in a small bowl.",
+          "Rub the spice mixture onto the ribs.",
+          "Place ribs on a baking sheet and cover with foil.",
+          "Bake for 2 1/2 hours, or until tender.",
+          "Remove the ribs from the oven and brush with BBQ sauce.",
+          "Grill the ribs for 10 minutes per side, or until crispy and charred.",
+          "Serve hot with extra BBQ sauce."
+        ]
+      },
+      {
+        "_id": "recipe02",
+        "dishName": "Fried Chicken",
+        "img": "https://recipe30.com/wp-content/uploads/2020/05/Fried-chicken-848x477.jpg",
+        "ingredients": [
+          {
+            "name": "Chicken pieces",
+            "quantity": "2 lbs"
+          },
+          {
+            "name": "Buttermilk",
+            "quantity": "2 cups"
+          },
+          {
+            "name": "Flour",
+            "quantity": "2 cups"
+          },
+          {
+            "name": "Paprika",
+            "quantity": "1 tbsp"
+          },
+          {
+            "name": "Garlic powder",
+            "quantity": "1 tbsp"
+          },
+          {
+            "name": "Onion powder",
+            "quantity": "1 tbsp"
+          },
+          {
+            "name": "Salt",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "Vegetable oil",
+            "quantity": "1 quart"
+          }
+        ],
+        "instructions": [
+          "Place chicken pieces in a large bowl and pour buttermilk over them.",
+          "Refrigerate for at least 1 hour.",
+          "In a separate bowl, mix together flour, paprika, garlic powder, onion powder, salt, and pepper.",
+          "Dip each chicken piece in the flour mixture, making sure it's fully coated.",
+          "Heat vegetable oil in a large pot over medium-high heat.",
+          "Fry chicken pieces in batches for 12-15 minutes, or until golden brown and cooked through.",
+          "Drain chicken on a wire rack or paper towels.",
+          "Serve hot with your favorite dipping sauce."
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "restaurantTasteMakers_02",
+    "chefName": "Thomas",
+    "img": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/styles/im_square_33/public/Thomas-Keller.jpg.webp",
+    "bio": "Thomas is an experienced chef who has worked in top-rated restaurants. His dishes are known for their unique flavor combinations and beautiful presentation.",
+    "yearsOfExperience": 12,
+    "numbersOfRecipes": 50,
+    "likes": 12,
+    "recipes": [
+      {
+        "_id": "recipe03",
+        "dishName": "Grilled Salmon with Mango Salsa",
+        "img": "https://againstallgrain.com/wp-content/uploads/2013/05/MG_2290.jpg",
+        "ingredients": [
+          {
+            "name": "Salmon fillets",
+            "quantity": "4"
+          },
+          {
+            "name": "Olive oil",
+            "quantity": "2 tbsp"
+          },
+          {
+            "name": "Lime juice",
+            "quantity": "1 tbsp"
+          },
+          {
+            "name": "Garlic powder",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "Cumin",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "Salt",
+            "quantity": "1/2 tsp"
+          },
+          {
+            "name": "Black pepper",
+            "quantity": "1/4 tsp"
+          },
+          {
+            "name": "Mango",
+            "quantity": "1, peeled and diced"
+          },
+          {
+            "name": "Red onion",
+            "quantity": "1/2, diced"
+          },
+          {
+            "name": "Jalapeno pepper",
+            "quantity": "1, seeded and minced"
+          },
+          {
+            "name": "Cilantro",
+            "quantity": "1/4 cup, chopped"
+          },
+          {
+            "name": "Lime zest",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "Salt",
+            "quantity": "1/4 tsp"
+          }
+        ],
+        "instructions": [
+          "Preheat grill to medium-high heat.",
+          "In a small bowl, whisk together olive oil, lime juice, garlic powder, cumin, salt, and black pepper.",
+          "Brush the mixture over the salmon fillets.",
+          "Grill salmon for 5-6 minutes per side, or until fully cooked.",
+          "In a medium bowl, combine mango, red onion, jalapeno pepper, cilantro, lime zest, and salt.",
+          "Serve the grilled salmon with the mango salsa on top."
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "hotelTasteMakers_01",
+    "chefName": "Ethan",
+    "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/03/Todd-English-2.jpg",
+    "bio": "I'm Ethan, and I've been cooking professionally for 12 years. I specialize in Southern comfort food with a modern twist.",
+    "yearsOfExperience": 12,
+    "numbersOfRecipes": 50,
+    "likes": 12,
+    "recipes": [
+      {
+        "_id": "recipe01",
+        "dishName": "Fried Chicken and Waffles",
+        "img": "https://images-gmi-pmc.edge-generalmills.com/902155c4-365f-4580-ab1c-ec276c2949c7.jpg",
+        "ingredients": [
+          {
+            "name": "Chicken breasts",
+            "quantity": "4"
+          },
+          {
+            "name": "Buttermilk",
+            "quantity": "2 cups"
+          },
+          {
+            "name": "Flour",
+            "quantity": "2 cups"
+          },
+          {
+            "name": "Baking powder",
+            "quantity": "2 tsp"
+          },
+          {
+            "name": "Salt",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "1/2 tsp"
+          },
+          {
+            "name": "Eggs",
+            "quantity": "2"
+          },
+          {
+            "name": "Waffle mix",
+            "quantity": "2 cups"
+          },
+          {
+            "name": "Maple syrup",
+            "quantity": "1/2 cup"
+          },
+          {
+            "name": "Butter",
+            "quantity": "1/4 cup"
+          }
+        ],
+        "instructions": [
+          "Marinate chicken breasts in buttermilk for at least 2 hours.",
+          "Preheat oven to 200°F.",
+          "In a shallow dish, mix together flour, baking powder, salt, and pepper.",
+          "In another dish, beat eggs.",
+          "Remove chicken from buttermilk and coat in flour mixture.",
+          "Dip chicken in beaten eggs, then coat in flour mixture again.",
+          "Heat oil in a large skillet over medium heat.",
+          "Fry chicken until golden brown on both sides and cooked through.",
+          "Transfer chicken to a baking sheet and keep warm in the oven.",
+          "Prepare waffles according to package instructions.",
+          "In a small saucepan, melt butter and mix with maple syrup.",
+          "Serve chicken and waffles together with maple butter."
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "hotelTasteBuds_03",
+    "chefName": "David",
+    "img": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/03/gray-danko-1.jpg",
+    "bio": "David has worked in the culinary industry for over 15 years, specializing in BBQ and Southern cuisine.",
+    "yearsOfExperience": 15,
+    "numbersOfRecipes": 50,
+    "likes": 12,
+    "recipes": [
+      {
+        "_id": "recipe01",
+        "dishName": "Pulled Pork Sandwich",
+        "img": "https://www.hormel.com/getattachment/7ed01616-5435-427e-94af-e5eb1cea8d45/Pulled-Pork-and-Fried-Egg-Breakfast-Sandwich.aspx",
+        "ingredients": [
+          {
+            "name": "Pork shoulder",
+            "quantity": "3 lbs"
+          },
+          {
+            "name": "Barbecue sauce",
+            "quantity": "2 cups"
+          },
+          {
+            "name": "Hamburger buns",
+            "quantity": "8"
+          },
+          {
+            "name": "Salt",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "1 tsp"
+          }
+        ],
+        "instructions": [
+          "Preheat oven to 250°F.",
+          "Rub pork shoulder with salt and pepper.",
+          "Place pork shoulder in a roasting pan and cover with barbecue sauce.",
+          "Cover pan with aluminum foil and roast for 6-8 hours, or until pork is tender and falls apart easily.",
+          "Shred pork with two forks.",
+          "Serve pulled pork on hamburger buns, topped with extra barbecue sauce."
+        ]
+      },
+      {
+        "_id": "recipe02",
+        "dishName": "Shrimp and Grits",
+        "img": "https://howtobbqright.com/wp-content/uploads/2018/03/shrimpgrits5.jpg",
+        "ingredients": [
+          {
+            "name": "Grits",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Butter",
+            "quantity": "4 tbsp"
+          },
+          {
+            "name": "Milk",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Shrimp",
+            "quantity": "1 lb, peeled and deveined"
+          },
+          {
+            "name": "Bacon",
+            "quantity": "4 slices, chopped"
+          },
+          {
+            "name": "Green onions",
+            "quantity": "2, chopped"
+          },
+          {
+            "name": "Garlic",
+            "quantity": "2 cloves, minced"
+          },
+          {
+            "name": "Chicken broth",
+            "quantity": "1 cup"
+          },
+          {
+            "name": "Lemon juice",
+            "quantity": "2 tbsp"
+          },
+          {
+            "name": "Salt",
+            "quantity": "1/2 tsp"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "1/4 tsp"
+          }
+        ],
+        "instructions": [
+          "Cook grits according to package instructions.",
+          "Stir in butter and milk.",
+          "Keep grits warm.",
+          "In a large skillet, cook bacon over medium heat until crispy.",
+          "Remove bacon from skillet and set aside.",
+          "Add shrimp, green onions, and garlic to the skillet.",
+          "Cook until shrimp are pink and cooked through, about 3-4 minutes.",
+          "Remove shrimp from skillet and set aside.",
+          "Add chicken broth, lemon juice, salt, and pepper to the skillet.",
+          "Bring to a boil and cook for 2-3 minutes, or until sauce has thickened slightly.",
+          "Stir in bacon and shrimp.",
+          "Serve shrimp and sauce over warm grits."
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "hotelTasteBuds_02",
+    "chefName": "Karen",
+    "img":"https://thetoptenchefs.com/wp/wp-content/uploads/2016/03/Aliya-LeeKong-2.jpg",
+    "bio": "Hi, I'm Karen! I'm a passionate chef with over 10 years of experience in cooking up delicious, classic American dishes.",
+    "yearsOfExperience": 10,
+    "numbersOfRecipes": 25,
+    "likes": 8,
+    "recipes": [
+      {
+        "_id": "recipe01",
+        "dishName": "Mac and Cheese",
+        "img":"https://images-gmi-pmc.edge-generalmills.com/34fd13d2-fa5f-46a8-be0b-71f7c648b7bd.jpg",
+        "ingredients": [
+          {
+            "name": "Elbow macaroni",
+            "quantity": "1 lb"
+          },
+          {
+            "name": "Butter",
+            "quantity": "1/4 cup"
+          },
+          {
+            "name": "Flour",
+            "quantity": "1/4 cup"
+          },
+          {
+            "name": "Milk",
+            "quantity": "2 cups"
+          },
+          {
+            "name": "Cheddar cheese",
+            "quantity": "2 cups, shredded"
+          },
+          {
+            "name": "Salt",
+            "quantity": "1/2 tsp"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "1/4 tsp"
+          },
+          {
+            "name": "Bread crumbs",
+            "quantity": "1/2 cup"
+          }
+        ],
+        "instructions": [
+          "Preheat oven to 375°F.",
+          "Cook macaroni according to package instructions and drain.",
+          "In a large saucepan, melt butter over medium heat.",
+          "Add flour and whisk until smooth.",
+          "Gradually stir in milk and bring to a boil.",
+          "Reduce heat and simmer for 2-3 minutes, stirring constantly.",
+          "Add shredded cheese and stir until melted and smooth.",
+          "Season with salt and pepper.",
+          "Combine cooked macaroni with cheese sauce, and pour into a baking dish.",
+          "Sprinkle bread crumbs over the top of the dish.",
+          "Bake for 20-25 minutes, or until golden brown."
+        ]
+      },
+      {
+        "_id": "recipe02",
+        "dishName": "Fried Chicken",
+        "img": "https://recipe30.com/wp-content/uploads/2020/05/Fried-chicken-848x477.jpg",
+        "ingredients": [
+          {
+            "name": "Chicken pieces",
+            "quantity": "8"
+          },
+          {
+            "name": "Buttermilk",
+            "quantity": "2 cups"
+          },
+          {
+            "name": "Flour",
+            "quantity": "2 cups"
+          },
+          {
+            "name": "Paprika",
+            "quantity": "1 tbsp"
+          },
+          {
+            "name": "Salt",
+            "quantity": "2 tsp"
+          },
+          {
+            "name": "Pepper",
+            "quantity": "1 tsp"
+          },
+          {
+            "name": "Vegetable oil",
+            "quantity": "2 cups"
+          }
+        ],
+        "instructions": [
+          "In a large bowl, marinate chicken pieces in buttermilk for at least 1 hour.",
+          "In a separate bowl, combine flour, paprika, salt, and pepper.",
+          "Dredge each chicken piece in the flour mixture until fully coated.",
+          "Heat vegetable oil in a large skillet over medium-high heat.",
+          "Add chicken pieces to the skillet and cook for 8-10 minutes per side, or until golden brown and cooked through.",
+          "Remove chicken from skillet and let rest on a paper towel-lined plate for a few minutes before serving."
         ]
       }
     ]
