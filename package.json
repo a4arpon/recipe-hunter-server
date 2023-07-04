@@ -4,6 +4,7 @@
   "description": "b7a10-chef-recipe-hunter-server-side-a4arpon created by GitHub Classroom",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
